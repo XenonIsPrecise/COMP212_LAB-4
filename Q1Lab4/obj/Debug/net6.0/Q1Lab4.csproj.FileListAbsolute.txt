@@ -1,0 +1,30 @@
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/bin/Debug/net6.0/Q1Lab4.exe
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/bin/Debug/net6.0/Q1Lab4.deps.json
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/bin/Debug/net6.0/Q1Lab4.runtimeconfig.json
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/bin/Debug/net6.0/Q1Lab4.dll
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/bin/Debug/net6.0/ref/Q1Lab4.dll
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/bin/Debug/net6.0/Q1Lab4.pdb
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/obj/Debug/net6.0/Q1Lab4.csproj.AssemblyReference.cache
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/obj/Debug/net6.0/Q1Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/obj/Debug/net6.0/Q1Lab4.AssemblyInfoInputs.cache
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/obj/Debug/net6.0/Q1Lab4.AssemblyInfo.cs
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/obj/Debug/net6.0/Q1Lab4.csproj.CoreCompileInputs.cache
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/obj/Debug/net6.0/Q1Lab4.dll
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/obj/Debug/net6.0/ref/Q1Lab4.dll
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/obj/Debug/net6.0/Q1Lab4.pdb
+C:/Users/julio/Downloads/Lab#5/Lab#5/Q1Lab5/Q1Lab4/obj/Debug/net6.0/Q1Lab4.genruntimeconfig.cache
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/bin/Debug/net6.0/Q1Lab4
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/bin/Debug/net6.0/Q1Lab4.deps.json
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/bin/Debug/net6.0/Q1Lab4.runtimeconfig.json
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/bin/Debug/net6.0/Q1Lab4.dll
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/bin/Debug/net6.0/Q1Lab4.pdb
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/Q1Lab4.csproj.AssemblyReference.cache
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/Q1Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/Q1Lab4.AssemblyInfoInputs.cache
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/Q1Lab4.AssemblyInfo.cs
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/Q1Lab4.csproj.CoreCompileInputs.cache
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/Q1Lab4.dll
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/refint/Q1Lab4.dll
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/Q1Lab4.pdb
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/Q1Lab4.genruntimeconfig.cache
+/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q1Lab4/obj/Debug/net6.0/ref/Q1Lab4.dll

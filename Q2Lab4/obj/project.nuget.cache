@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNxRwIYcG/0LfncVY9oIIiAo41Ul8bAHlFEl/J/cIHVAERDmCXBcNwrf0elzEH6mahs+KoXVgWlOPOmeDj9YIA==",
+  "success": true,
+  "projectFilePath": "/Users/sujalxenon/Downloads/Lab04 - Solution Template/Q2Lab4/Q2Lab4.csproj",
+  "expectedPackageFiles": [
+    "/Users/sujalxenon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/sujalxenon/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.21/microsoft.netcore.app.host.osx-arm64.6.0.21.nupkg.sha512",
+    "/Users/sujalxenon/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

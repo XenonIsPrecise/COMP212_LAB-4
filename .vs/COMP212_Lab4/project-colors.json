@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d163ce19-f630-4099-abfc-33052de9b64e": {
+      "ProjectGuid": "d163ce19-f630-4099-abfc-33052de9b64e",
+      "DisplayName": "Q1Lab3",
+      "ColorIndex": 0
+    },
+    "ce0024a8-4f41-4b30-a92f-7accaffcc052": {
+      "ProjectGuid": "ce0024a8-4f41-4b30-a92f-7accaffcc052",
+      "DisplayName": "Q1Lab4",
+      "ColorIndex": 1
+    },
+    "4c4e7ba3-49fb-4c1b-81da-f46785b5769f": {
+      "ProjectGuid": "4c4e7ba3-49fb-4c1b-81da-f46785b5769f",
+      "DisplayName": "Q2Lab4",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
